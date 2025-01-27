@@ -1,8 +1,13 @@
 # Melons Postals
 Simple script that allows player to set waypoints to specific postal codes with `/gps`
 
-## Original Script
-The original script is [nearest-postal](https://github.com/DevBlocky/nearest-postal) made by DevBlocky
+## Original Script & Licenses
+Original Script:
+- [nearest-postal](https://github.com/DevBlocky/nearest-postal) by DevBlocky
+- MIT License | Copyright (c) 2019 BlockBa5her
+This Script (Modifications):
+- melons_postals by IlMelons
+- GPL-3.0 License | Copyright (c) 2024 IlMelons
 
 ## Dependencies & Start Order
 - ensure `ox_lib`
