@@ -1,0 +1,6 @@
+{
+    "help_command": "Sæt en waypoint på kortet",
+    "help_param": "Postnummer",
+    "not_found": "Postnummeret %s findes ikke",
+    "set_success": "Waypoint sat til postnummer %s"
+}

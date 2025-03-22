@@ -1,0 +1,6 @@
+{
+    "help_command": "Nustatykite žymeklį žemėlapyje",
+    "help_param": "Pašto kodas",
+    "not_found": "Pašto kodas %s neegzistuoja",
+    "set_success": "Žymeklis nustatytas į pašto kodą %s"
+}

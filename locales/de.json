@@ -1,0 +1,6 @@
+{
+    "help_command": "Setzt einen Punkt auf der Karte",
+    "help_param": "Postleitzahl",
+    "not_found": "Die Postleitzahl %s existiert nicht",
+    "set_success": "Wegpunkt auf Postleitzahl %s gesetzt"
+}
