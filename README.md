@@ -9,4 +9,3 @@ Our team is expanding so we made more professional documentation with a modern a
 
 # DISCORD TO STAY UPDATED
 [Discord](https://discord.gg/WKtk65yBC6)
-[Documentation](https://monarch-docs.ricodev.it/)
