@@ -1,6 +1,0 @@
-{
-    "help_command": "Tetapkan titik jalan di peta",
-    "help_param": "Kod Pos",
-    "not_found": "Kod pos %s tidak wujud",
-    "set_success": "Titik jalan ditetapkan pada kod pos %s"
-}

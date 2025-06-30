@@ -1,6 +1,0 @@
-{
-    "help_command": "Nastavte waypoint na mapě",
-    "help_param": "PSČ",
-    "not_found": "PSČ %s neexistuje",
-    "set_success": "Waypoint nastaven na PSČ %s"
-}

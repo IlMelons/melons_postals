@@ -1,6 +1,0 @@
-{
-    "help_command": "Imposta una destinazione in mappa",
-    "help_param": "Civico",
-    "not_found": "Il civico %s non esiste",
-    "set_success": "Destinazione impostata al civico %s"
-}
